@@ -1,0 +1,8 @@
+name: My Custom Module
+description: 'Rest Resource for Content.'
+type: module
+package: Custom Module
+dependencies:
+- rest
+- restui
+core_version_requirement: ^8.8 || ^9
